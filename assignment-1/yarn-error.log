@@ -1,0 +1,36 @@
+Arguments: 
+  /home/autodidactic/.nvm/versions/node/v10.15.0/bin/node /usr/bin/yarn init
+
+PATH: 
+  /home/autodidactic/.nvm/versions/node/v10.15.0/bin:/home/autodidactic/.cabal/bin:/home/autodidactic/.ghcup/bin:/home/autodidactic/bin:/usr/local/bin:/usr/bin:/usr/lib/jvm/java-12-openjdk//bin:/usr/lib/jvm/java-12-openjdk//bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/autodidactic/.fzf/bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  10.15.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/lib/node_modules/yarn/lib/cli.js:137008:13)
+      at Interface.emit (events.js:182:13)
+      at Interface._ttyWrite (readline.js:783:16)
+      at ReadStream.onkeypress (readline.js:168:10)
+      at ReadStream.emit (events.js:182:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1022:36)
+      at ReadStream.emit (events.js:182:13)
+      at addChunk (_stream_readable.js:283:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

@@ -1,0 +1,14 @@
+{
+  "name": "node-project-1",
+  "version": "1.0.0",
+  "description": "First project done in Max's Udemy course",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Dominik Clemente",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
